@@ -1,0 +1,7 @@
+C:\Users\choconta\source\repos\program\Clases\bin\Debug\Clases.exe.config
+C:\Users\choconta\source\repos\program\Clases\bin\Debug\Clases.exe
+C:\Users\choconta\source\repos\program\Clases\bin\Debug\Clases.pdb
+C:\Users\choconta\source\repos\program\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\choconta\source\repos\program\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\choconta\source\repos\program\Clases\obj\Debug\Clases.exe
+C:\Users\choconta\source\repos\program\Clases\obj\Debug\Clases.pdb
